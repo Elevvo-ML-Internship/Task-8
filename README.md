@@ -77,14 +77,14 @@ Callbacks: **EarlyStopping (patience=3, restore best weights)**
 - **Final Train Accuracy**: ~98.7%    
 - **Final Val Accuracy**: ~99.4%
 
-PIC
+<img width="990" height="374" alt="Accuracy_Loss" src="https://github.com/user-attachments/assets/d2525a77-a4a3-4cb1-8e5b-95e529e61fd9" />
 
 ---
 ### 🔹 Confusion Matrix
 
 The model performs well across all classes with very few misclassifications.
 
-PIC
+<img width="904" height="685" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/0df07012-35b3-4fc4-96db-67cde6ec73c4" />
 
 ---
 
