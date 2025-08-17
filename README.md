@@ -44,7 +44,7 @@ project/
 │  ├─ Test.csv
 │  ├─ Train/    # images in subfolders (0..42)
 │  └─ Test/     # test images
-├─ train.py or notebook.ipynb
+├─ Traffic_Sign_Recognition.ipynb
 └─ README.md
 ```
 
